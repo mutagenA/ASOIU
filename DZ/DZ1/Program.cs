@@ -11,7 +11,6 @@ while (true)
     Console.Write("Введите вторую строку: ");
     string s2 = Console.ReadLine();
 
-    // переводим строки в верхний регистр
     s1 = s1.ToUpper();
     s2 = s2.ToUpper();
 
